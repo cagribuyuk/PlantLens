@@ -14,6 +14,11 @@ Users can take a photo or choose one from the gallery, select the visible plant 
 - Taxonomy information
 - User-friendly loading and error states
 
+<img width="1080" height="2400" alt="Screenshot_20260914_131822" src="https://github.com/user-attachments/assets/c348cd2d-2582-4513-9653-57e2e505a649" />
+<img width="1080" height="2400" alt="Screenshot_20260914_131848" src="https://github.com/user-attachments/assets/d55eefb4-5742-49f2-8be8-b8961774e0aa" />
+<img width="1080" height="2400" alt="Screenshot_20260914_131902" src="https://github.com/user-attachments/assets/b17e7d1c-309d-441c-80bf-7156bb1fd00c" />
+<img width="1080" height="2400" alt="Screenshot_20260914_131906" src="https://github.com/user-attachments/assets/170eca48-3cd8-4929-b4b1-5b6bcd9300b8" />
+
 ## Tech Stack
 ### Client
 - React Native
